@@ -13,4 +13,11 @@ require_once 'Model/conexion.php';
 $objArranque = new Template();
 $objArranque -> getIntro();
 
+
 ?>
+
+<html>
+       <body>
+              <h1>commitgit</h1>
+       </body>
+</html>
