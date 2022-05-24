@@ -24,10 +24,7 @@ $objArranque -> getIntro();
 </head>
 <body>
        <h1>commit correcto</h1>
+            //voce meu amigo kkkkkkk
        <h1>commitgit</h1>
 </body>
 </html>
-
-//olá a voce meu amigo
-//xd
-
