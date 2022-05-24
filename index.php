@@ -14,3 +14,5 @@ $objArranque = new Template();
 $objArranque -> getIntro();
 
 ?>
+
+<h1> esisto y no sabo xq</h1>
