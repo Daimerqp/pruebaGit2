@@ -12,7 +12,6 @@ require_once 'Model/conexion.php';
        //////// Arranque /////////
 $objArranque = new Template();
 $objArranque -> getIntro();
-
 ?>
 
 <!DOCTYPE html>
@@ -25,8 +24,7 @@ $objArranque -> getIntro();
 </head>
 <body>
        <h1>commit correcto</h1>
-            //filho da puta kkkkkkk
+            //voce meu amigo kkkkkkk
+       <h1>commitgit</h1>
 </body>
 </html>
-
-
